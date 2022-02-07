@@ -3,7 +3,7 @@
 
 ### I'm a FrontEnd Developer
 - 💞️ I like to write code
-- 🌱 I love to paint, play videogames and read books
+- 🎨 I love to paint, play videogames and read books
 - 👀 I am constantly learning new things
 
 ### Languages and Tools:
