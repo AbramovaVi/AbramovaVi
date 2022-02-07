@@ -12,4 +12,4 @@
 <img align="left" alt="JavaScript" src="https://img.icons8.com/nolan/64/javascript.png"/>
 <img align="left" alt="React" src="https://img.icons8.com/dusk/64/000000/react.png"/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramovavi&theme=radical&show_icons=true)
