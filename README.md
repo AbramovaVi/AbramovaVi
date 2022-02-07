@@ -10,6 +10,6 @@
 <img align="left" alt="Html" src="https://img.icons8.com/nolan/64/html-5.png"/>
 <img align="left" alt="Css" src="https://img.icons8.com/dusk/57/000000/css3.png"/>
 <img align="left" alt="JavaScript" src="https://img.icons8.com/nolan/64/javascript.png"/>
-<img align="left" alt="React" src="https://img.icons8.com/dusk/64/000000/react.png"/>
+<img align="left" alt="React" src="https://img.icons8.com/dusk/60/000000/react.png"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramovavi&theme=radical&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramovavi&theme=radical&show_icons=true) -->
