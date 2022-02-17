@@ -20,5 +20,6 @@
 
 <img align="left" alt="TypeScript" src="https://img.icons8.com/color/54/000000/typescript.png"/>
 <img align="left" alt="Sass" src="https://img.icons8.com/color/54/000000/sass.png"/>
+<img align="left" alt="Redux" src="https://img.icons8.com/color/54/000000/redux.png"/>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramovavi&theme=radical&show_icons=true) -->
